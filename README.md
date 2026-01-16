@@ -1,16 +1,23 @@
-# primeiroprojetoflutter
+# Primeiro Projeto Flutter
 
-A new Flutter project.
+Este é o meu primeiro aplicativo desenvolvido em Flutter, criado como parte do curso de **Desenvolvimento Mobile com Flutter** da [Digital Innovation One (DIO)](https://www.dio.me/).
 
-## Getting Started
+## 📱 Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+Este projeto marca o início da minha jornada no desenvolvimento mobile multiplataforma. Através dele, estou aprendendo os fundamentos do Flutter e explorando as possibilidades de criar aplicações nativas para Android e iOS com uma única base de código.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Objetivos de Aprendizado
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Compreender a estrutura de um projeto Flutter
+- Familiarizar-me com a linguagem Dart
+- Aprender sobre widgets e componentes do Flutter
+- Desenvolver habilidades em desenvolvimento mobile multiplataforma
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tecnologias
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+
+## 📚 Recursos
+
+Este projeto foi desenvolvido seguindo o curso da DIO, que fornece uma base sólida para desenvolvimento de aplicações mobile modernas.
